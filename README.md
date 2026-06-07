@@ -1,8 +1,8 @@
 # Binary2Decimal_coderabbit
 
 A begineer Python project that converts a binary number with up to 8 digits into its decimal equivalent.
-This project is based on the Bin2Dec app idea from the App Ideas repository by 
---https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md--
+This project is based on the Bin2Dec app idea from the App Ideas repository by: 
+https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md
 
 ## Features
 
